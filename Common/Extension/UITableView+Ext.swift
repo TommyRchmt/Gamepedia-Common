@@ -5,7 +5,6 @@
 //  Created by Tommy Rachmat on 19/11/21.
 //
 
-import Foundation
 import UIKit
 
 public extension UITableView {
