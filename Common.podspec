@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.platform = :ios
-  spec.ios.deployment_target = '15.0'
+  spec.ios.deployment_target = '13.0'
   spec.name         = 'Common'
   spec.version      = '1.0.0'
   spec.summary      = 'Common.framework for Gamepedia Apps'
