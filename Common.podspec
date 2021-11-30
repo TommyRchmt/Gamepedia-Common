@@ -23,7 +23,11 @@ Pod::Spec.new do |spec|
   
   spec.source       = { :git => 'https://github.com/TommyRchmt/Gamepedia-Common.git', :tag => spec.version.to_s }
 
+  spec.framework = "UIKit"
+
   spec.source_files  = "Common/**/*.{swift}"
-  spec.resources = "Common/*.{lproj,strings}"
+  spec.resource_bundles = { "Common" => ["*.lproj/*.strings"] }
+
+  spec.swift_version = "5.1"
 
 end
