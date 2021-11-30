@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Common
+
+  Created by Tommy Rachmat on 29/11/21.
+  
+*/
+
+"gamepedia_title" = "Gamepedia";
+"back" = "Back";
+"about" = "About";
+"all_title" = "All";
+"favorite_title" = "Favorite";
+"no_favorite_description" = "You don't have favorites yet";
+
+"error" = "Error";
+"retry" = "Retry";
+"ok" = "Ok";
+"fetching_data_error_description" = "Fetching Data. Please Try Again.";
+"failed_getting_data_description" = "Failed Getting Another Data.";

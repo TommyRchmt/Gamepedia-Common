@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Common
+
+  Created by Tommy Rachmat on 29/11/21.
+  
+*/
+
+"gamepedia_title" = "게임백과";
+"back" = "뒤로";
+"about" = "프로필";
+"all_title" = "모두";
+"favorite_title" = "좋아하는";
+"no_favorite_description" = "아직 좋아하는 게임이 없습니다";
+
+"error" = "오류";
+"retry" = "다시 해 보다";
+"ok" = "확인";
+"fetching_data_error_description" = "데이터를 가져 오는 중. 다시 시도하십시오.";
+"failed_getting_data_description" = "다른 데이터를 가져오지 못했습니다.";

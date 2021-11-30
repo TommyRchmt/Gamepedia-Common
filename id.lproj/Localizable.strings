@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Common
+
+  Created by Tommy Rachmat on 29/11/21.
+  
+*/
+
+"gamepedia_title" = "Gamepedia";
+"back" = "Kembali";
+"about" = "Tentang";
+"all_title" = "Semua";
+"favorite_title" = "Favorit";
+"no_favorite_description" = "Anda Belum Memiliki Game Favorit";
+
+"error" = "Eror";
+"retry" = "Coba Lagi";
+"ok" = "Ok";
+"fetching_data_error_description" = "Mengambil Data. Silakan Coba Lagi.";
+"failed_getting_data_description" = "Gagal Mendapatkan Data lainnya.";
